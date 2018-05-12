@@ -1,0 +1,48 @@
+_repo: Elene--Judith--Athelstan-or-the-Fight-at-Brunanburh--Byrhtnoth-or-the-Fight-at-Maldon--and-th__15879
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, James Mercer
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '6357'
+    url: http://www.gutenberg.org/2009/agents/6357
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: "\"The Battle of Maldon\" is the name given to an Old English poem of\
+  \ uncertain date celebrating the real Battle of Maldon of 991, at which the Anglo-Saxons\
+  \ failed to prevent a Viking invasion. Only 325 lines of the poem are extant; both\
+  \ the beginning and the ending are lost.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15879'
+  wikidata: Q1700507
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Helena, Saint, approximately 255-approximately 330 -- Poetry'
+- !lcsh 'Jesus Christ -- Crucifixion -- Poetry'
+- !lcsh 'English poetry -- Old English, ca. 450-1100 -- Modernized versions'
+- !lcc 'PR'
+- !lcsh 'Maldon, Battle of, England, 991 -- Poetry'
+- !lcsh 'Judith (Biblical figure) -- Poetry'
+- !lcsh 'Brunanburh, Battle of, 937 -- Poetry'
+title: 'Elene; Judith; Athelstan, or the Fight at Brunanburh; Byrhtnoth, or the Fight
+  at Maldon; and the Dream of the Rood
+
+  Anglo-Saxon Poems'
+url: http://www.gutenberg.org/ebooks/15879
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Bataille_de_Maldon
+- https://en.wikiquote.org/wiki/The_Battle_of_Maldon
+- https://de.wikipedia.org/wiki/The_Battle_of_Maldon
+- https://en.wikipedia.org/wiki/The_Battle_of_Maldon
+- https://es.wikipedia.org/wiki/La_batalla_de_Maldon
+- https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0%D1%82%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9C%D0%BE%D0%BB%D0%B4%D1%8A%D0%BD
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Maldon_(poemat)
+- https://io.wikipedia.org/wiki/La_Batalio_di_Maldon
+- https://sv.wikipedia.org/wiki/Slaget_vid_Maldon
